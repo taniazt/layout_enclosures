@@ -13,9 +13,7 @@ body {
 
 .yellow {
   margin: 10px;
-  border: solid;
-  border-width: 1px;
-  border-color: #e75551;
+  border: 1px solid #e75551;
   background-color: #ffa500;
 }
 
